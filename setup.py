@@ -25,8 +25,8 @@ setup(
     name='smartmirror',
     version='1.0.0',
     description='Raspberry powered mirror which can display news, weather, calendar events',
-    author='HackerHouse',
-    url='https://github.com/HackerHouseYT/Smart-Mirror',
+    author='XiongZK',
+    url='https://github.com/xiongzk/Smart-Mirror',
     install_requires=packages,
     packages=find_packages(),
 )
